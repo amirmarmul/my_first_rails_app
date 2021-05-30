@@ -20,5 +20,7 @@ Things you may want to cover:
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
-
+```bash
+bundle lock --add-platform x86_64-linux --add-platform ruby
+```
 * ...
